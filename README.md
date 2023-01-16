@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is 
 # Md Rahim Miah
 ### Web Application Developer | WordPress | PHP | Laravel | React
-
+![Profile views](https://gpvc.arturio.dev/Rahim169)  
 
 A dedicated and hardworking Web Application Developer who is driven with good communication and interpersonal skills and Experienced  with a demonstrated history of working in the publishing industry.
 -Over 7+ years of experience of working in popular CMS called WordPress. Also experienced in shopify for e-commerce website.
@@ -24,4 +24,4 @@ Skills: HTML / CSS/JavaScript/Bootstrap/Tailwind CSS/WordPress/PHP/Laravel/React
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahim169&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Rahim169)  
+
