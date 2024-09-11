@@ -1,4 +1,4 @@
-![Web Application Developer | WordPress | PHP | Laravel | React](https://rahim.bditpoint.com/wp-content/uploads/2023/01/github-bg.jpeg)
+![Web Application Developer | WordPress | PHP | Laravel | React](https://rahim.bditpoint.com/wp-content/uploads/2024/09/rahims-moto.jpeg)
 ### Hi there 👋, my name is 
 # Md Rahim Miah 
 ### Web Application Developer | WordPress | PHP | Laravel | React
