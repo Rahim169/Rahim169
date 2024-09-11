@@ -4,7 +4,7 @@
 ### Web Application Developer | WordPress | PHP | Laravel | React
 ![Profile views](https://gpvc.arturio.dev/Rahim169) 
 
-Personal Portfolio: <a href="https://rahimmiah.netlify.app/" target="_blank">Rahim Miah </a>
+Personal Portfolio: <a href="https://rahimmiah.netlify.app/" target="_blank">Rahim Miah </a><br>
 Meeting Schedule: <a href="https://calendly.com/rahimmiah169" target="_blank"> Click Here.. </a>
 
 
